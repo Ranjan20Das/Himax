@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as _,t as o}from"./D-sPH5Q8.js";const a={class:"base-title"},c={__name:"BaseTitle",props:{title:String},setup(t){return(n,r)=>(_(),s("h2",a,o(t.title),1))}},p=e(c,[["__scopeId","data-v-4a4379f9"]]);export{p as _};
